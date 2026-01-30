@@ -2,3 +2,5 @@ India
 China
 USA
 Russia
+Australia
+Singapore
