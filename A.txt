@@ -3,4 +3,4 @@ Mumbai
 Bangalore
 Chennai
 Pune
-It's Gurgaon, not Gurugram.
+Gurugram
