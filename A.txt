@@ -5,3 +5,5 @@ Chennai
 Pune
 Gurugram
 Kolkata
+Jaipur
+Guwahati
